@@ -2,7 +2,7 @@
   "manifest_version": 2,
   "name": "Kotlin Borderify",
   "version": "1.0",
-  "description": "Adds a red border to kotlinlang.org",
+  "description": "Adds a color border to kotlinlang.org",
   "content_scripts": [
     {
       "matches": [
