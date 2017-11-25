@@ -1,5 +1,8 @@
 # Borderify
 
+[![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)
+[![forthebadge](http://forthebadge.com/images/badges/uses-js.svg)](http://forthebadge.com)
+
 An overly simplified Firefox plugin made with [Kotlin](https://kotlinlang.org).
 
 ## Getting Started
@@ -82,5 +85,3 @@ Note the `js` tag which is a list of the JavaScript files the plugin will use. A
 `gradle` task and no changes are reflected, make sure that the correct `js` files are being used
 
 The JS file that the compiler will compile from Kotlin to JS is `build/classes/main/min/borderify.js` and the Kotlin standard library is `build/classes/main/min/kotlin.js`.
-
- 
