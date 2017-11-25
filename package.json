@@ -1,0 +1,15 @@
+{
+  "name": "borderify",
+  "version": "1.0.0",
+  "description": "Creates a border around the kotlinlang.org website",
+  "main": "index.js",
+  "scripts": {
+    "start":"web-ext run",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Brian Lusina <lusinabrian@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "web-ext": "^2.2.2"
+  }
+}
