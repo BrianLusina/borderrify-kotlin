@@ -1,0 +1,70 @@
+# Snyk (https://snyk.io) policy file, patches or ignores known vulnerabilities.
+version: v1.14.1
+ignore: {}
+# patches apply the minimum changes required to fix a vulnerability
+patch:
+  SNYK-JS-LODASH-567746:
+    - web-ext > firefox-profile > lodash:
+        patched: '2020-05-01T00:49:00.751Z'
+    - web-ext > addons-linter > babel-register > lodash:
+        patched: '2020-05-01T00:49:00.751Z'
+    - web-ext > addons-linter > cheerio > lodash:
+        patched: '2020-05-01T00:49:00.751Z'
+    - web-ext > watchpack > async > lodash:
+        patched: '2020-05-01T00:49:00.751Z'
+    - web-ext > addons-linter > eslint > lodash:
+        patched: '2020-05-01T00:49:00.751Z'
+    - web-ext > firefox-profile > archiver > lodash:
+        patched: '2020-05-01T00:49:00.751Z'
+    - web-ext > firefox-profile > async > lodash:
+        patched: '2020-05-01T00:49:00.751Z'
+    - web-ext > addons-linter > babel-register > babel-core > lodash:
+        patched: '2020-05-01T00:49:00.751Z'
+    - web-ext > addons-linter > dispensary > async > lodash:
+        patched: '2020-05-01T00:49:00.751Z'
+    - web-ext > firefox-profile > archiver > async > lodash:
+        patched: '2020-05-01T00:49:00.751Z'
+    - web-ext > addons-linter > eslint > inquirer > lodash:
+        patched: '2020-05-01T00:49:00.751Z'
+    - web-ext > addons-linter > eslint > table > lodash:
+        patched: '2020-05-01T00:49:00.751Z'
+    - web-ext > addons-linter > eslint-plugin-no-unsafe-innerhtml > eslint > lodash:
+        patched: '2020-05-01T00:49:00.751Z'
+    - web-ext > firefox-profile > archiver > archiver-utils > lodash:
+        patched: '2020-05-01T00:49:00.751Z'
+    - web-ext > firefox-profile > archiver > zip-stream > lodash:
+        patched: '2020-05-01T00:49:00.751Z'
+    - web-ext > addons-linter > babel-register > babel-core > babel-types > lodash:
+        patched: '2020-05-01T00:49:00.751Z'
+    - web-ext > addons-linter > babel-register > babel-core > babel-generator > lodash:
+        patched: '2020-05-01T00:49:00.751Z'
+    - web-ext > addons-linter > babel-register > babel-core > babel-traverse > lodash:
+        patched: '2020-05-01T00:49:00.751Z'
+    - web-ext > addons-linter > babel-register > babel-core > babel-template > lodash:
+        patched: '2020-05-01T00:49:00.751Z'
+    - web-ext > addons-linter > babel-register > babel-core > babel-register > lodash:
+        patched: '2020-05-01T00:49:00.751Z'
+    - web-ext > addons-linter > eslint-plugin-no-unsafe-innerhtml > eslint > inquirer > lodash:
+        patched: '2020-05-01T00:49:00.751Z'
+    - web-ext > addons-linter > eslint-plugin-no-unsafe-innerhtml > eslint > table > lodash:
+        patched: '2020-05-01T00:49:00.751Z'
+    - web-ext > firefox-profile > archiver > zip-stream > archiver-utils > lodash:
+        patched: '2020-05-01T00:49:00.751Z'
+    - web-ext > addons-linter > babel-register > babel-core > babel-generator > babel-types > lodash:
+        patched: '2020-05-01T00:49:00.751Z'
+    - web-ext > addons-linter > babel-register > babel-core > babel-traverse > babel-types > lodash:
+        patched: '2020-05-01T00:49:00.751Z'
+    - web-ext > addons-linter > babel-register > babel-core > babel-template > babel-types > lodash:
+        patched: '2020-05-01T00:49:00.751Z'
+    - web-ext > addons-linter > babel-register > babel-core > babel-template > babel-traverse > lodash:
+        patched: '2020-05-01T00:49:00.751Z'
+    - web-ext > addons-linter > babel-register > babel-core > babel-helpers > babel-template > lodash:
+        patched: '2020-05-01T00:49:00.751Z'
+    - web-ext > addons-linter > babel-register > babel-core > babel-template > babel-traverse > babel-types > lodash:
+        patched: '2020-05-01T00:49:00.751Z'
+    - web-ext > addons-linter > babel-register > babel-core > babel-helpers > babel-template > babel-types > lodash:
+        patched: '2020-05-01T00:49:00.751Z'
+    - web-ext > addons-linter > babel-register > babel-core > babel-helpers > babel-template > babel-traverse > lodash:
+        patched: '2020-05-01T00:49:00.751Z'
+    - web-ext > addons-linter > babel-register > babel-core > babel-helpers > babel-template > babel-traverse > babel-types > lodash:
+        patched: '2020-05-01T00:49:00.751Z'
