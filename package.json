@@ -12,7 +12,7 @@
   "author": "Brian Lusina <lusinabrian@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "snyk": "^1.461.0",
+    "snyk": "^1.473.0",
     "web-ext": "^5.5.0"
   },
   "snyk": true
