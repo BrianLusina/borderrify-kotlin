@@ -13,7 +13,7 @@
   "license": "MIT",
   "dependencies": {
     "snyk": "^1.473.0",
-    "web-ext": "^5.5.0"
+    "web-ext": "^6.0.0"
   },
   "snyk": true
 }
