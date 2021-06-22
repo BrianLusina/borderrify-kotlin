@@ -12,8 +12,8 @@
   "author": "Brian Lusina <lusinabrian@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "snyk": "^1.639.0",
-    "web-ext": "^6.0.0"
+    "web-ext": "^6.2.0"
+    "snyk": "^1.639.0"
   },
   "snyk": true
 }
